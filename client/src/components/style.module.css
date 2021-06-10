@@ -1,0 +1,57 @@
+body {
+    background-color: orange;
+}
+
+.box1 {
+    border: 5px solid black;
+    margin: 15px;
+    padding: 20px;
+    background-color: #773f06;
+    color: white;
+}
+.box2 {
+    border: 5px solid black;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    padding: 20px;
+    width: 80%;
+}
+.box3 {
+    border: 5px solid black;
+    margin: 50px;
+    padding: 200px;
+    display: inline-block;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    }
+.box4 {
+    margin-right: 30px;
+    padding: 20px;
+    display: inline-block;
+}
+.but1 {
+    background-color: royalblue;
+    margin: 20px;
+    font-size: 20px;
+    color: white;
+}
+.but2 {
+    background-color: red;
+    margin: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+.form1 {
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 100px;
+}
+.form2 {
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 100px;
+}
